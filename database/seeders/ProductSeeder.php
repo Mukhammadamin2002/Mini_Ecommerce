@@ -20,28 +20,28 @@ class ProductSeeder extends Seeder
 	        	'price' => '200',
 	        	'description' => 'A smartphone with high quality',
 	        	'category' => 'mobile',
-	        	'gallery' => "https://www.pexels.com/photo/black-samsung-android-smartphone-on-top-of-brown-wooden-tablke-214487/"
+	        	'gallery' => "https://hosty.xxx/i/bee20b4a9dd348f6e07722b0148d5b8eb9263335.jpg"
         	],
         	[
 	        	'name'=> 'Samsung TV',
 	        	'price' => '300',
 	        	'description' => 'A TV with high quality, Perfect Looklikes',
 	        	'category' => 'TV',
-	        	'gallery' => "https://www.pexels.com/photo/interior-of-bedroom-with-bed-and-tv-6297080/"
+	        	'gallery' => "https://hosty.xxx/i/193e094c6d7ffd675edd764f55068bf4b094ba54.jpg"
         	],
         	[
 	        	'name'=> 'Sony Fs5',
 	        	'price' => '100',
 	        	'description' => 'Easy To control',
 	        	'category' => 'Gadget',
-	        	'gallery' => "https://www.pexels.com/photo/white-and-black-sony-ps-4-game-controller-3945657/"
+	        	'gallery' => "https://hosty.xxx/i/6e6feb665c756cdd0a7e66cc805a30665d67fcbb.jpg"
         	],
         	[
 	        	'name'=> 'Huawei Laptop',
 	        	'price' => '800',
 	        	'description' => 'Comfortable to bring High quality',
 	        	'category' => 'computer',
-	        	'gallery' => "https://www.pexels.com/photo/semi-opened-laptop-computer-turned-on-on-table-2047905/"
+	        	'gallery' => "https://hosty.xxx/i/332773313e93d0c21fda05661aaab498414b5d1f.jpg"
         	]
         ]);
     }
