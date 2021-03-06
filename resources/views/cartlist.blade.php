@@ -20,11 +20,11 @@
           </div>
           </div>
           <div class="col-sm-3">
-              <button class="btn btn-danger">Remove From Cart</button>
+              <a href="/removecart/{{$item->cart_id}}" class="btn btn-info"><i class="fa fa-trash" style="color:red;"></i>Remove From Cart</a>
           </div>
         </div>
-        @endforeach
-      </div>
+        @endforeach 
+      </div> 
     </div>
 </div>
 @endsection
