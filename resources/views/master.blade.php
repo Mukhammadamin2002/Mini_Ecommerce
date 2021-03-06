@@ -38,6 +38,7 @@
 	.trending-item{
         float: left;
         width: 20%;
+        margin: 10px;
 	}
 	.trending-wrapper{
 		margin: 30px;
